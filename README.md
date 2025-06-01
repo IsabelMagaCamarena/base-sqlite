@@ -20,5 +20,8 @@ Este proyecto es una aplicación de escritorio construida con **Python**, **Tkin
 ## Error en captura invalida de correo:
 ![image](https://github.com/user-attachments/assets/9643f37e-7177-45eb-befc-5ebb11b0efd2)
 
+## Reflejo de capturas de datos nuevos 
+![image](https://github.com/user-attachments/assets/f6131061-4536-4402-b798-f4a2dc34517c)
+
 
 
